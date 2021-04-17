@@ -12,6 +12,7 @@ import Tabs from './navigation/Tabs';
 const Stack = createStackNavigator();
 
 const App = () => {
+
   return (
     <NavigationContainer>
       <Stack.Navigator
